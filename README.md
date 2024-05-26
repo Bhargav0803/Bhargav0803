@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhargav Mungekar</h1>
 <h3 align="center">A frontend developer and a web3 enthusiast.</h3>
 
-- 🌱 I’m currently learning **Full Stack development and Solidity**
+- 🌱 I’m currently learning **Full Stack development and sharpening DSA knowledge**
 
 - 📫 How to reach me **bhargavmungekar08@gmail.com**
 
